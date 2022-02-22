@@ -1,4 +1,4 @@
-## Steps to create a voice recording and insert into a PowerPoint slider
+## Steps for creating a voice recording and inserting into a PowerPoint slider
 
 This instruction requires iPhone or any devices that can create voice recording, and a desktop computer.
 
