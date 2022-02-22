@@ -3,7 +3,7 @@
 This instruction requires iPhone or any devices that can create voice recording, and a desktop computer.
 
 
-#### First step is to create a .mp3 audio file
+#### First step is to create an audio file and convert it to .mp3  file
 1. Create a voice recording using iPhone or any devices.  iPhone creates .m4a file. 
 2. Send the voice recording .m4a file to yourself via email (to have the file on desktop and conver it to .mp3)
 3. Go to https://cloudconvert.com/ and convert the .m4a file to .mp3
